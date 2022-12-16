@@ -52,3 +52,18 @@ input[type="submit"] {
 input[type="submit"]:hover {
     background-color: rgb(23, 141, 102);
 }
+
+#sucess .container {
+    overflow: hidden;
+    background-color: antiquewhite;
+    width : 100vw;
+    height : 100vh;
+    border: 1px solid lightgrey;
+    border-radius: 4px;
+}
+#success img {
+    position : relative;
+    left : 35%;
+    top:30%
+
+}
